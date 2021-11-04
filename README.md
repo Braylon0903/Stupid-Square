@@ -1,0 +1,2 @@
+# Stupid-Square
+A game
